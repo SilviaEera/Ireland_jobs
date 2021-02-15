@@ -7,7 +7,7 @@ Webscrapper for different job sites  in Ireland.
 
 **3)** After installation open Anaconda and click on Environment.
 
-**4)** Go to the bottom left of the screen and create a new environment with a name. After creation the environment click on the triangle( play ) button beside the new environment name and click on open terminal. 
+**4)** Go to the bottom left of the screen and create a new environment with a name. After creation of the environment click on the triangle( play ) button beside the new environment name and click on open terminal. 
 
 **5)** Install scrapy with "pip install Scrapy" or "pip3 install Scrapy" if it's not already installed on you computer. (Make sure to install it on the environment you will be workinhg in.)  
 
